@@ -42,4 +42,4 @@ function trekAtMedia(options = defaults) {
 
 trekAtMedia.postcss = true;
 
-export default trekAtMedia;
+module.exports = trekAtMedia;
