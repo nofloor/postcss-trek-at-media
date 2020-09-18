@@ -1,6 +1,6 @@
 {
   "name": "postcss-trek-at-media",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "At media shorthands for Trek.",
   "main": "index.js",
   "dependencies": {},
